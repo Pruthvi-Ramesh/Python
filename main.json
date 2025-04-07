@@ -14,15 +14,6 @@
             {
                 "RawFilePath": "https://raw.githubusercontent.com/Pruthvi-Ramesh/Python/refs/heads/main/validategithubrepo.txt",
                 "Order": 3,
-                "UnlockingRules": [
-                    {
-                        "UnlockDependency": "Validations",
-                        "UnlockCriteria": "Execution",
-                        "DependentValidations": [
-                            "050134ec-64c5-4a30-b3e2-bf35ddbf5a91"
-                        ]
-                    }
-                ]
             }
         ]
     }
