@@ -18,4 +18,4 @@ Follow below steps to create an S3 Bucket.
 
 # Validation
 
-<validation step="416D306C-A933-48BD-9280-A0BB15D7BB3B" />
+<validation step="416d306c-a933-48bd-9280-a0bb15d7bb3b" />
