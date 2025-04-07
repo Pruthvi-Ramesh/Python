@@ -1,0 +1,29 @@
+[
+    {
+        "Name": "CloudLabs Test",
+        "Language": "English",
+        "Files": [
+            {
+                "RawFilePath": "https://raw.githubusercontent.com/Pruthvi-Ramesh/Python-Lab-Validation/refs/heads/main/getstarted.txt",
+                "Order": 1
+            },
+            {
+                "RawFilePath": "https://raw.githubusercontent.com/Pruthvi-Ramesh/Python/refs/heads/main/validateVm.txt",
+                "Order": 2
+            },
+            {
+                "RawFilePath": "https://raw.githubusercontent.com/Pruthvi-Ramesh/Python/refs/heads/main/validategithubrepo.txt",
+                "Order": 3,
+                "UnlockingRules": [
+                    {
+                        "UnlockDependency": "Validations",
+                        "UnlockCriteria": "Execution",
+                        "DependentValidations": [
+                            "45F9F7E0-AF07-4CA1-8641-01E11FE9E4CA"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
